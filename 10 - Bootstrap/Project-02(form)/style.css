@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+  }
+
+.form-container{
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
+
+.form-container h3{
+  font-size: 22px;
+}
